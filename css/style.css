@@ -38,6 +38,14 @@ footer{
 	font-weight: bold;
 }
 
+.titulo2{
+	text-align: center;
+	color: #ff9f06;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+}
+
 h6{
 	text-align: center;
 	font-weight: bold;
@@ -58,10 +66,25 @@ p{
 	color: #333;
 }
 
+.textogallery{
+	color: #fff;
+	text-align: center;
+	margin-left: 5%;
+	margin-right: 5%;
+}
 .copy{
 	color: #ff9f06;
 }
 
 .imagen-galeria{
 	height: 25%;
+}
+
+.gallery{
+	background-color: #2750d0;
+}
+
+.clientes-div{
+	display: flex;
+	justify-content: center;
 }
